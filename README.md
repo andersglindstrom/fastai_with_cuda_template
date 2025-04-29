@@ -9,7 +9,7 @@ I used the following instructions to install CUDA 12.8. Note that `nvidia-smi`
 in invaluable in determining that the installation worked and for checking
 the CUDA version:
 
-  * [https://www.baeldung.com/linux/ubuntu-gpu-cuda]
+  * https://www.baeldung.com/linux/ubuntu-gpu-cuda
 
 You should be able to use `nvidia-smi` to see what card you have and what
 CUDA version is available.
